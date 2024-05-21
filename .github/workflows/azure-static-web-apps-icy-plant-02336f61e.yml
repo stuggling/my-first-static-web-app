@@ -1,3 +1,4 @@
+run:  chmod  -R  777
 name: Azure Static Web Apps CI/CD
 
 on:
